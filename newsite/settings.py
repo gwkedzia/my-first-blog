@@ -25,7 +25,7 @@ SECRET_KEY = 'yfnj$^@3!+l$a-q=cup8i&&lvyr8ofedm!8q60j=40b3x$(--z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gwkedzia.pythonanywhere.com']
 
 
 # Application definition
